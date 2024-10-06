@@ -1,4 +1,8 @@
 - processes & connections
 basically the same table
+- devices
+code should be named country code
+From location we keep continent (we can use classification to change latitude and longitude in profiles to continents), and we keep store name (). Country and city wouldn't provide additional value as there is one store per city, 1 city per country.
+- devices has duplicate data
 - location
 table devices contains columns for latitude and longitude, column profiles contains it as a tuple of decimals in one column (Decimal('-27.447495'), Decimal('-43.231283'))
