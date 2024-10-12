@@ -14,3 +14,6 @@ for 1.2b:
 null values are only in profiles: job, current_location, residence, address
 for 1.3:
 hypothesis 1: profiles.mail has effect on mwra
+
+1.2B = 1.2A missing values
+1.2C = 1.2A deviated values
