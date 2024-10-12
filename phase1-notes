@@ -10,4 +10,7 @@ We can use classification to change latitude and longitude in profiles to contin
 - location
 table devices contains columns for latitude and longitude, column profiles contains it as a tuple of decimals in one column (Decimal('-27.447495'), Decimal('-43.231283'))
 
-rename attributes (e.g. p.android.chrome -> p.chrome)
+for 1.2b:
+null values are only in profiles: job, current_location, residence, address
+for 1.3:
+hypothesis 1: profiles.mail has effect on mwra
