@@ -1,0 +1,28 @@
+Stock **"Adj Close"** (adjusted close) je upravená uzatváracia cena akcie alebo iného cenného papiera pre daný obchodný deň. Táto hodnota je prispôsobená tak, aby zohľadňovala významné udalosti, ako sú **rozdelenia akcií (stock splits)**, **výplaty dividend** alebo iné korporátne akcie, ktoré ovplyvňujú cenu akcií, ale nie ich skutočnú trhovú hodnotu.
+
+### Ako to funguje?
+1. **Rozdelenie akcií (Stock Split)**: 
+   - Ak spoločnosť vykoná napríklad rozdelenie 2:1, hodnota každej akcie sa zníži na polovicu, ale počet akcií sa zdvojnásobí. 
+   - Príklad: Ak akcia stála pred rozdelením 100 USD, po rozdelení bude stáť 50 USD, ale investor bude vlastniť 2 akcie namiesto jednej.
+   - **Adj Close** upravuje historické ceny tak, aby boli porovnateľné s aktuálnou cenou. Ak bola cena pred rokom 100 USD, upraví sa na 50 USD, aby odrážala rozdelenie.
+
+2. **Dividendové výplaty**:
+   - Ak spoločnosť vypláca dividendy, hodnota akcií po výplate dividend môže prirodzene klesnúť, pretože časť hodnoty spoločnosti bola distribuovaná akcionárom.
+   - **Adj Close** upraví cenu tak, aby zohľadňovala reinvestovanie dividend a vytvorila realistický obraz o výnose akcionára.
+
+3. **Iné korporátne akcie**:
+   - Môžu zahŕňať fúzie, spin-offy alebo odkupy, ktoré môžu tiež ovplyvniť cenu akcií. 
+
+### Prečo je Adj Close užitočné?
+- **Lepšie porovnávanie**: Umožňuje presne porovnávať výkonnosť akcie v priebehu času, bez toho, aby boli výsledky skreslené korporátnymi udalosťami.
+- **Spoľahlivé dáta pre analýzu**: Analytici a investori ho využívajú na technické analýzy a výpočty výnosov, pretože dáva presný obraz o reálnej hodnote akcie.
+- **Reinvestície dividend**: Adj Close berie do úvahy, že akcionári môžu dividendy reinvestovať, čo ovplyvňuje ich celkový výnos.
+
+### Príklad:
+Predstavme si, že cena akcie bola:
+- **1. januára**: 50 USD (bez dividend, bez rozdelenia).
+- **15. júna**: 2:1 rozdelenie akcií – cena klesne na 25 USD, ale Adj Close pre 1. január by sa spätne upravil na 25 USD, aby to odrážalo rozdelenie.
+- **30. júna**: Spoločnosť vyplatí dividendu 1 USD. Adj Close pre 30. jún bude upravený na 24 USD.
+
+### Zhrnutie:
+**Adj Close** je teda "historická" cena akcie upravená tak, aby realisticky odrážala reálne výnosy investora, vrátane efektov rozdelenia a dividend. Je to neoceniteľný nástroj pre tých, ktorí analyzujú dlhodobé výnosy.
