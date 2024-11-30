@@ -3,3 +3,10 @@ pandas
 scipy
 matplotlib
 seaborn
+kagglehub
+tensorflow
+notebook
+jupyterlab
+scikit-learn
+statsmodels
+scikit-optimize
